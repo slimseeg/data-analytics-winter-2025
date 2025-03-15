@@ -32,4 +32,24 @@ _Estimated total time to complete: 4 hours_
 - [ ] Watch [this](https://www.youtube.com/watch?v=dsAVSsdYC10&t=1s) video and mark when complete
 - [ ] Follow along in Google Looker Data Studio to create a Looker Dashboard
 - [ ] You can use the data provided in the video OR choose a data set that interest you from [kaggle](https://www.kaggle.com/datasets) to analyze/visualize.  
-- [ ] Drop your completed dashboard in [this discussion](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/180) tread.   
+- [ ] Drop your completed dashboard in [this discussion](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/180) thread.   
+
+## Wednesday, March 12th, 2025 - In Class Agenda: 
+
+1. 💃 Welcome and Networking 
+2. 🎓 Capstone Overview
+   * Guest Speaker - Worthy Lee 
+3. ☕️ Break
+4. 🤖 AI Demo & Hack time  
+    * [Loveable.dev](Loveable.dev)
+    * [Story Magic](https://lovable.dev/projects/e581faca-7bca-42a7-8e0a-25bdb8c7ca39)  
+5. 🔜 Wrap up & Look Ahead 
+
+## Saturday, March 15th, 2025 - In Class Agenda: 
+
+1.  👩🏻‍🏫 Demo - A Look at some Looker Dashboards 👀
+2. 🙌🏻 Share and Tell
+3. 🔜 Wrap up & Look Ahead 
+4. ☕️ Break
+5. 💃 Guest Speaker - [Jessica Currun](https://www.linkedin.com/in/jessica-curran/) - VP Data Science & Analytics @ Health Catalyst 
+
